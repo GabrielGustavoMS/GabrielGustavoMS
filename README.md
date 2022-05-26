@@ -12,7 +12,7 @@ Você também podem descobrir mais sobre mim ou sobre meus projetos, acessando [
 
 ## Sobre mim:
 
-5 Fatos sobre mim:
+### 5 Fatos sobre mim:
 
 - 💻 Atualmente trabalho com desenvolvimento frontend e 🎵 produção musical ...
 - 🤓 Estou cursando uma Pós Graduação Latu Sensu em Ciência de Dados ...
@@ -20,7 +20,7 @@ Você também podem descobrir mais sobre mim ou sobre meus projetos, acessando [
 - 📙 Atualmente estou atualizando meus conhecimentos em JavaScript ...
 - 🧐 Apesar do meu foco em frontend, já meu aventurei por diversas tecnologias ...
 
-Rede Sociais - Onde você pode me encontrar:
+### Rede Sociais - Onde você pode me encontrar:
 
 - 🔗 Linked-in: [Gabriel Gustavo](https://www.linkedin.com/in/gabrielgustavoms)
 - 🌐 Site: [Garbriel Gustavo MS](https://gabrielgustavoms.github.io/GabrielGustavoMS/)
