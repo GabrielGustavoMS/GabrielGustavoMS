@@ -8,7 +8,7 @@
 
 Sinta-se à vontade para explorar os meus projetos no GitHub!
 
-Você também podem descobrir mais sobre mim ou sobre meus projetos, acessando [meu site.](https://gabrielgustavoms.github.io/GabrielGustavoMS/)
+Você também pode descobrir mais sobre mim ou sobre meus projetos, acessando [meu site.](https://gabrielgustavoms.github.io/GabrielGustavoMS/)
 
 ## Sobre mim:
 
