@@ -1,5 +1,9 @@
 ### Olá, Amantes da Ciência e da Tecnologia! 👋
+
 #### É realmente Incrível ter vocês aqui!
+
+[![](./thumb.jpg)](https://gabrielgustavoms.github.io/GabrielGustavoMS/)
+
 <!--
 **GabrielGustavoMS/GabrielGustavoMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
