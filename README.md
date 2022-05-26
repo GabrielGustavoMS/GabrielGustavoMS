@@ -1,6 +1,6 @@
 # Olá, Amantes da Ciência e da Tecnologia! 👋
 
-**É realmente Incrível ter vocês aqui!**
+### É realmente Incrível ter vocês aqui!
 
 [![](./thumb.jpg)](https://gabrielgustavoms.github.io/GabrielGustavoMS/)
 
