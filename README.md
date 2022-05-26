@@ -4,9 +4,13 @@
 
 [![](./thumb.jpg)](https://gabrielgustavoms.github.io/GabrielGustavoMS/)
 
+## Meus projetos
+
 Sinta-se à vontade para explorar os meus projetos no GitHub!
 
 Vocês também podem descobrir mais sobre mim ou sobre meus projetos, acessando [meu site.](https://gabrielgustavoms.github.io/GabrielGustavoMS/)
+
+## Sobre mim:
 
 5 Fatos sobre mim:
 
