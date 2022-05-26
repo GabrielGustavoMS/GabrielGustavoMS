@@ -23,7 +23,7 @@ Você também podem descobrir mais sobre mim ou sobre meus projetos, acessando [
 ### Rede Sociais - Onde você pode me encontrar:
 
 - 🔗 Linked-in: [Gabriel Gustavo](https://www.linkedin.com/in/gabrielgustavoms)
-- 🌐 Site: [Garbriel Gustavo MS](https://gabrielgustavoms.github.io/GabrielGustavoMS/)
+- 🌐 Site: [Gabriel Gustavo MS](https://gabrielgustavoms.github.io/GabrielGustavoMS/)
 - ▶️ YouTube: [Gabri Gu](https://www.youtube.com/GabriGu?sub_confirmation=1)
 - 📷 Instagram: [@gabriguto](https://www.instagram.com/gabriguto/)
 - 📖 Facebook: [Gabri Gu](https://www.facebook.com/gabriguto)
