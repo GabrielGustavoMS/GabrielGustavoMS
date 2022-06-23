@@ -20,7 +20,7 @@ Você também pode descobrir mais sobre mim ou sobre meus projetos, acessando [m
 - 📙 Atualmente estou atualizando meus conhecimentos em JavaScript ...
 - 🧐 Apesar do meu foco em frontend, já meu aventurei por diversas tecnologias ...
 
-### Rede Sociais - Onde você pode me encontrar:
+### Redes Sociais - Onde você pode me encontrar:
 
 - 🔗 Linked-in: [Gabriel Gustavo](https://www.linkedin.com/in/gabrielgustavoms)
 - 🌐 Site: [Gabriel Gustavo MS](https://gabrielgustavoms.github.io/GabrielGustavoMS/)
